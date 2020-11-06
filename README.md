@@ -54,3 +54,9 @@ QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and pa
 #### space: O(1)
 
 Heap sort is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements.
+
+
+## 7. Counting Sort
+#### stable: No
+#### time: O(nlogn)
+#### space: O(1)
