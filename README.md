@@ -46,3 +46,9 @@ QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and pa
 2) Always pick last element as pivot (implemented below)
 3) Pick a random element as pivot.
 4) Pick median as pivot.
+
+
+## 6. Heap Sort
+#### stable: No
+#### time: O(nlogn)
+#### space: O(logn)
