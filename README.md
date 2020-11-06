@@ -60,3 +60,5 @@ Heap sort is a comparison based sorting technique based on Binary Heap data stru
 #### stable: Yes
 #### time: O(n+k)
 #### space: O(max)
+
+Counting sort is a sorting technique based on keys between a specific range. It works by counting the number of objects having distinct key values (kind of hashing). Then doing some arithmetic to calculate the position of each object in the output sequence.
