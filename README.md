@@ -57,6 +57,6 @@ Heap sort is a comparison based sorting technique based on Binary Heap data stru
 
 
 ## 7. Counting Sort
-#### stable: No
-#### time: O(nlogn)
-#### space: O(1)
+#### stable: Yes
+#### time: O(n+k)
+#### space: O(max)
